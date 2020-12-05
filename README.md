@@ -1,2 +1,2 @@
-# worldstarOS
-worldstarOS source code
+# thanOS
+thanOS source code
